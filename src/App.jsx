@@ -25,9 +25,6 @@ function App() {
           <ContactForm />
         </section>
 
-        <section>
-        </section>
-
       </main>
     </div>
   );
